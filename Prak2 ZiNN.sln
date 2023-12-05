@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prak2 ZiNN", "Prak2 ZiNN\Prak2 ZiNN.csproj", "{696F2C7B-E8CF-48EB-9632-02DAAA4C564E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{696F2C7B-E8CF-48EB-9632-02DAAA4C564E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696F2C7B-E8CF-48EB-9632-02DAAA4C564E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696F2C7B-E8CF-48EB-9632-02DAAA4C564E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696F2C7B-E8CF-48EB-9632-02DAAA4C564E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1702F3E-8FCC-42C6-AC33-55F06D5603E2}
+	EndGlobalSection
+EndGlobal
